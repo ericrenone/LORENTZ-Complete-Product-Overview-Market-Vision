@@ -363,12 +363,6 @@ By 2030, AI inference will be as ubiquitous as WiFi. The device that wins that m
 
 This complete LORENTZ vision is documented in four companion files:
 
-1. **HETEROGENEOUS_AI_INFERENCE_README.md** — Infrastructure strategy & market positioning (data center context)
-2. **LORENTZ_EDGE_AI_COMPUTER_README.md** — Product specification & technical details
-3. **LORENTZ_STRATEGIC_IMPACT.md** — Historical significance & competitive moat analysis
-4. **LORENTZ_MARKET_STRATEGY.md** — Go-to-market plan, financial projections, investment strategy
-
----
 
 **Release Target:** Q3 2027
 **IPO Target:** 2029
