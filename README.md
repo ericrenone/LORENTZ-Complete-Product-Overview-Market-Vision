@@ -359,13 +359,3 @@ By 2030, AI inference will be as ubiquitous as WiFi. The device that wins that m
 
 ---
 
-## Documents Overview
-
-This complete LORENTZ vision is documented in four companion files:
-
-
-**Release Target:** Q3 2027
-**IPO Target:** 2029
-**Market Domination Target:** 2030–2035
-
-**Status:** Greenfield opportunity | **Confidence:** 75% | **Market Window:** 2027–2028 (critical)
